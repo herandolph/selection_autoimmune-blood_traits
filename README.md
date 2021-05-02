@@ -1,1 +1,1 @@
-# selection_autoimmune-blood_traits
+# selection_autoimmune_diseases
